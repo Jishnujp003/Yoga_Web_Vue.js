@@ -1,5 +1,6 @@
 .box {
     position:relative;
+    margin: auto;
     background-color: lightgrey;
     width: 400px;
     height: 420px;
@@ -118,9 +119,10 @@
     margin-top:30px;
   }
   body {
-      display:flex;
       justify-content:center;
       align-items:center;
+      align-content: center;
+      /* text-align: center; */
       min-height: 100vh;
       background-color: #23242a;
   }

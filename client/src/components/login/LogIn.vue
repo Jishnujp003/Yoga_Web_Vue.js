@@ -18,7 +18,6 @@
                 <span></span>
                 <i></i>
             </div>
-
             <button type="submit" class="btn btn-outline-info "
              v-on:click="login()">Log In</button>
 

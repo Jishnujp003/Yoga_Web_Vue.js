@@ -1,17 +1,11 @@
 <template>
-  <div class="vue-tempalte">
+  <!-- <div class="vue-tempalte"> -->
     <header>
-      <nav class="navbar shadow rounded justify-content-between flex-row fixed-top hdb">
+      <nav class="navbar shadow rounded justify-content-between  fixed-topp hdb">
         <div class="container">
           <router-link class=" btn btn-outline-secondary" to="/">
             <fa icon="home-lg" />
           </router-link>
-          <!-- <div>
-            <TheDropDownMenu text="Dropdown Item 3">
-        <TheDropDownItem>Dropdown Item 3-1</TheDropDownItem>
-        <TheDropDownItem>Dropdown Item 3-2</TheDropDownItem>
-      </TheDropDownMenu>
-          </div> -->
               <router-link class=" btn btn-outline-secondary"
           to="/asanas" v-on:click="asna()"
           style="margin-left: -50px;">Asanas
@@ -46,10 +40,11 @@
         </div>
       </nav>
     </header>
-    <div class="App">
+    <!-- <div class="App"> -->
+      <!-- <div> -->
       <router-view />
-    </div>
-  </div>
+    <!-- </div> -->
+  <!-- </div> -->
 </template>
 
 <script>
@@ -92,5 +87,12 @@ export default {
 
 .hdb {
   background-color: rgb(249, 229, 229);
+}
+.fixed-topp {
+    /* position: fixed; */
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
 }
 </style>

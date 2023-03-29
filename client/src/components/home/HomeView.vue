@@ -8,23 +8,23 @@ WHAT WILL IT MEAN TO YOU?</h2>
   </div>
   <div class="b text-black-50">
     <h2>"Yoga is a path towards total harmony of body, mind, and spirit."</h2>
-    <h3>Yoga is not merely a form of exercise for the body.<br>
+    <p>Yoga is not merely a form of exercise for the body.<br>
       It is an ancient wisdom - for a healthier, happier,<br>
       and more peaceful way of living - which ultimately<br>
-      leads to union with the Self.</h3>
+      leads to union with the Self.</p>
     <p class="text-black-50">
       To live in harmony with oneself and the environment is the wish of every human.
-      However, in modern times greater<br> physical and emotional demands are constantly
-      placed upon many areas of life. The result: more and more people<br> suffer from
+      However, in modern times greater physical and emotional demands are constantly
+      placed upon many areas of life. The result: more and more people suffer from
       physical and mental tension such as stress, anxiety, insomnia, and there is an imbalance
-       in physical<br>
-      activity and proper exercise. This is why methods and techniques for the attainment
-      and improvement of health,<br> as well as physical, mental and spiritual harmony, are of
-      great importance, and it is exactly in this respect that <br>“Yoga in Daily Life”
+       in physical activity and proper exercise.
+       This is why methods and techniques for the attainment
+      and improvement of health,as well as physical, mental and spiritual harmony, are of
+      great importance, and it is exactly in this respect that “Yoga in Daily Life”
       comprehensively offers an aid to help one’s self.</p>
   </div>
 
-<div class="cd" >
+<div class="cd" style="padding-top: 50px;">
 
   <div class="c"></div>
 
